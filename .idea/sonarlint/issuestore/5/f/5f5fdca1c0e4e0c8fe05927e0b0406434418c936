@@ -1,0 +1,14 @@
+
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$b2150f58-2e1c-479c-a60b-d3419ce3a693
+†	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$ea1c61c2-b0b7-4004-a725-1f9bbb74915f
+
+java:S1149	"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(´Ë‰ßıÿÿÿÿ8ğ¥€Ëö1J$6b0dc8ea-2088-481d-a8e5-025847aff236
+š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$296f70b0-d61c-4294-a87a-21b505c418cc
+l
+java:S1481")Remove this unused "rand" local variable.(Îİ²“8ââŒËö1J$9e4bd3e8-dcc0-48e0-8983-fc38496a157f
+f	java:S106"+Replace this use of System.out by a logger.(×‹òèJ$b3cca24e-7911-47ea-987b-9494307e0285
+m	java:S106"+Replace this use of System.out by a logger.(‡‹¿Æ8¡üŠËö1J$2a016651-9cc1-4fc1-8619-8f4160d949ff
+l	java:S106"+Replace this use of System.out by a logger.(˜ôa8Ó±‹Ëö1J$d2454473-45f4-4870-ad96-a93f4df53cf6
+‹
+java:S1128"CRemove this unused import 'java.util.concurrent.ConcurrentHashMap'.(ÓŠÓøúÿÿÿÿ8ÌÀ€Ëö1J$349b7788-cae3-4408-938d-354a10d2e74f

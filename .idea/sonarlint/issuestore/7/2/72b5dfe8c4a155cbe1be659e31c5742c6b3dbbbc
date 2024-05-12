@@ -1,0 +1,14 @@
+
+•
+java:S2095	"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(’µ‘Êıÿÿÿÿ8Î«¨’õ1J$569a30e0-7505-4b65-9943-b0c8d6549a60
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78«–È’õ1
+o
+java:S1602",Remove useless curly braces around statement(Û•â8Ô«¨’õ1J$d44c9b05-ceae-4cd5-ab6b-390c9d6650fd
+m	java:S106"+Replace this use of System.out by a logger.( Ï´8ë¥’õ1J$7df5933e-0b61-4dbf-b90d-5e9f6a1f56d2
+r	java:S106"+Replace this use of System.out by a logger.(Ö’Û÷şÿÿÿÿ8Ö‡Ä’õ1J$efb69ecc-527b-4723-932d-9bb33506e849
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(è±íƒüÿÿÿÿ8‘×Ã’õ1J$a0adbc79-eed4-46ed-b0df-22510e046ab7
+’
+java:S1128"JRemove this unused import 'java.util.concurrent.ScheduledExecutorService'.(Êßˆÿÿÿÿÿ8’×Ã’õ1J$e768c511-80be-4c94-9265-a8def016cbcf
+}
+java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş8’×Ã’õ1J$ee9d9798-b201-4f8e-887b-15b3a33b0791

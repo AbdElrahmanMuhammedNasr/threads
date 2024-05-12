@@ -1,0 +1,13 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8Τ’οφ1J$3f214424-90c9-4db4-b434-3199178774bf
+m	java:S106"+Replace this use of System.out by a logger.(ÿΟ”ώ8οφ1J$e4438a29-71c5-4902-a2b3-110ce8e5d77f
+΅
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€8β’οφ1J$f5b30a85-b6bf-4997-a4fe-3f816915054f
+m	java:S106	"+Replace this use of System.out by a logger.(γώ8„οφ1J$67f861a3-54ad-4097-b8c2-a1bfda823fb6
+m	java:S106"+Replace this use of System.out by a logger.(χΈ²τ8θ¶ οφ1J$0d6f95cc-8fbd-4d52-98f3-88052ecd1176
+…
+java:S1612"=Replace this lambda with method reference 'myClass::method1'.(ύχ™τÿÿÿÿÿ8©Β›οφ1J$d32453cf-3e08-4c9e-889a-2772504b50cd
+…
+java:S1612"=Replace this lambda with method reference 'myClass::method1'.(ύχ™τÿÿÿÿÿ8¬Β›οφ1J$f62d4c91-fa7e-4612-a497-05586d32cae0
+…
+java:S1612"=Replace this lambda with method reference 'myClass::method1'.(ύχ™τÿÿÿÿÿ8¬Β›οφ1J$923c874f-f08d-4655-b27c-d059eaad8608

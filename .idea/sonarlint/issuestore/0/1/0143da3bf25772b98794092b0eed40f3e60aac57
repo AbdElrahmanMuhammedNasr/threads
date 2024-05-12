@@ -1,0 +1,12 @@
+
+k
+java:S1604("(Make this anonymous inner class a lambda(º»îÔ8ºîÂö1J$6e97967a-ebfb-46d5-99f3-3d9af7288223
+m	java:S106"+Replace this use of System.out by a logger.(Ö¾Ø×8ÈîÂö1J$c74b5f10-c8ff-4f49-85b5-72eb9669810b
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÈîÂö1J$6fafe9b0-31d9-410a-b4fc-d2e53e86ca76
+l	java:S106"+Replace this use of System.out by a logger.(„ó¡!8ÉîÂö1J$5f271efe-15ac-4237-965e-15d64a816ad9
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8ÊîÂö1J$6def5050-cf7d-49d2-82c5-dd834c546eaf
+r	java:S106!"+Replace this use of System.out by a logger.(÷Ñ¯Äşÿÿÿÿ8ÌîÂö1J$62696402-e720-4266-8c56-81c5a9c7a9a1
+¡	java:S115%"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(õŠıøÿÿÿÿ8ÍîÂö1J$2332abe8-b33e-434d-9215-64197b8fa9be
+m	java:S106+"+Replace this use of System.out by a logger.(ö¼†¡8ÒîÂö1J$87002c38-bfd6-4a3a-b8d3-c52a107ce163

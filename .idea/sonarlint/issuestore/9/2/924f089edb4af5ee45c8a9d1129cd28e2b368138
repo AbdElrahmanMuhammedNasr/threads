@@ -1,0 +1,13 @@
+
+˜
+java:S2236
+"PRefactor the synchronisation mechanism to not use a Thread instance as a monitor(¥±š˜ÿÿÿÿÿ8ıäÚõ1J$37be272d-be14-46f1-bf8f-d2a0754f9e1b
+¨
+java:S2273
+"`Move this call to "wait()" into a synchronized block to be sure the monitor on "Worker" is held.(¥±š˜ÿÿÿÿÿ8ıäÚõ1J$b3ac49ab-4ec1-4e34-9cd9-2d51ba913a7f
+‚
+java:S2274
+":Remove this call to "wait" or move it into a "while" loop.(¥±š˜ÿÿÿÿÿ8ÿäÚõ1J$bd0a10c6-d06f-4e9a-8fd2-a9fae256fa83
+r	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿ8ÿäÚõ1J$8773fa6d-dafe-4dbe-9986-1dde90e31663
+r	java:S106"+Replace this use of System.out by a logger.(ú¶Úúûÿÿÿÿ8ƒåÚõ1J$344f6f4b-40b5-43e1-ab2f-23f99f442373
+m	java:S106""+Replace this use of System.out by a logger.(Õ¯Ø¡8„åÚõ1J$86248f4b-0b64-4eab-abc9-cd847c0b4fee

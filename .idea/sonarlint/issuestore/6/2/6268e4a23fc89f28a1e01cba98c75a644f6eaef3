@@ -1,0 +1,19 @@
+
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$9169412e-b470-4940-a338-ab6f6b5caeb1
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$9e921ab3-a4a7-4363-a949-68f46b73d6a7
+k
+java:S3740"/Provide the parametrized type for this generic.(§ç„ŸJ$1adb70e6-e803-42f0-b0b8-2012bf0ae77a
+„
+java:S1854#"<Remove this useless assignment to local variable "runnable".(ª×Ûþýÿÿÿÿ8©²”Èö1J$f1509550-4402-4788-9ab2-7d4aac2c7d7d
+š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$513a040c-ba7d-4c6f-a0ed-2fc6f8fb4cfa
+f	java:S106"+Replace this use of System.out by a logger.(ÛÙ”„J$eadb75e5-b979-417e-8222-f11eb053069d
+š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$a58357a3-d7dc-4fde-97bb-4eef44dd37b3
+k	java:S106"+Replace this use of System.out by a logger.(ÀÑ¶¡úÿÿÿÿJ$ee9799e4-5b90-4d50-a8bb-5f987b9d0eff
+u
+java:S1481#"-Remove this unused "runnable" local variable.(ª×Ûþýÿÿÿÿ8²²”Èö1J$5dee7655-d849-4a8d-a8b6-7a9ae448de50
+Œ
+java:S1128"DRemove this unused import 'java.util.concurrent.ArrayBlockingQueue'.(ÜÙ×Ëúÿÿÿÿ8Áô‰Èö1J$2a79e1b1-8a74-40e1-8a59-8514b13996b7
+}
+java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™þ8È¹–Èö1J$c77a4ea9-4eee-4184-9f2a-0da4e31a9b2a

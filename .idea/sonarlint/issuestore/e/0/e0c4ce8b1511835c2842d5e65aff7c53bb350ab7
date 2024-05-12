@@ -1,0 +1,6 @@
+
+•
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(îãÍª8‡˜Ùîö1J$d2266f19-2346-4144-a5b7-18557f9b45da
+r	java:S106"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ8–½Øîö1J$68d2041b-4d00-4e47-9dc8-69664572b2ef
+
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8Š˜Ùîö1J$31bd1a83-5e91-492d-8b6c-4b6569154a0a

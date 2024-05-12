@@ -1,0 +1,27 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‰Ğ…Ùò1J$6f66594e-dd1c-47ec-934d-25c91a82af5d
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ßŒ‹Ùò1J$791506e2-0c56-44b1-8719-c8fe1ed0b3f1
+	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÏÙò1J$2aaff18e-909d-4bd0-8758-b14d95fcf083
+
+java:S1192"UDefine a constant instead of duplicating this literal " the course is ready" 3 times.(¾ñŞªÿÿÿÿÿ8ÎÑ‹Ùò1J$8df5417f-46ba-48d6-97fe-758062135828
+”
+java:S11040"QMake title a static final constant or non-public and provide accessors if needed.(Å¬õ8õ‡…Ùò1J$d67a95e0-1c39-400a-9535-10937a4496ea
+m	java:S106"+Replace this use of System.out by a logger.(·ï²Ê8Ú¼‡Ùò1J$459e095e-e2d0-4561-9110-7bd0fe2ff7a5
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8—Ğ…Ùò1J$eb10a64c-e54c-4e7f-918b-3ab891dca8b4
+}
+java:S2274
+":Remove this call to "wait" or move it into a "while" loop.(àŞÂè8˜Ğ…Ùò1J$5d1b6bbf-a18e-4fb5-8db2-efc786957a39
+r	java:S106"+Replace this use of System.out by a logger.(¾ñŞªÿÿÿÿÿ8šìˆÙò1J$2332d297-35f9-4fdb-a7cb-ebb570796278
+m	java:S106"+Replace this use of System.out by a logger.(·ï²Ê8ëŒ‹Ùò1J$e13136cf-ac9a-4afd-999d-36d5782144b2
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ëŒ‹Ùò1J$40dbd027-acec-4bdf-a603-59188d491e69
+}
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(àŞÂè8ëŒ‹Ùò1J$6ee1bb91-3afc-4cd4-914f-aec78fec427b
+r	java:S106"+Replace this use of System.out by a logger.(¾ñŞªÿÿÿÿÿ8ëŒ‹Ùò1J$c9c55466-8c8d-4513-a551-802d7a94892d
+r	java:S106""+Replace this use of System.out by a logger.(ı¿Çşûÿÿÿÿ8ÛÑ‹Ùò1J$c695f523-cd9e-408e-98c1-cb65463936af
+¡
+java:S2142%"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8£ÏÙò1J$bc7ccb32-0aec-4cea-a6d1-69b9688c9948
+†
+java:S2276$"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(Úõôñ8¤ÏÙò1J$f27ac891-b2bb-4402-bb9a-887c96cdb729
+r	java:S106)"+Replace this use of System.out by a logger.(¾ñŞªÿÿÿÿÿ8İÑ‹Ùò1J$7a67b766-5eee-4187-9800-aa6c402c6078

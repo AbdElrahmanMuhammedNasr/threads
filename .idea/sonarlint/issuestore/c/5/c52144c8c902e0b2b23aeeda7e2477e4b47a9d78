@@ -1,0 +1,5 @@
+
+H
+java:S2201"+The return value of "collect" must be used.(€¡„½8Èè¼Üö1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(€¡„½8Ìè¼Üö1

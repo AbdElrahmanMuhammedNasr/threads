@@ -1,0 +1,15 @@
+
+l
+java:S2095-"JUse try-with-resources or close this "ForkJoinPool" in a "finally" clause.(£ÚÌúøÿÿÿÿ8„ßÅßö1
+]
+java:S1948	"!Make "data" private or transient.(¥¯È÷J$0b9c97b5-c806-4826-b8f7-7cbe5e1b43ba
+r
+java:S2696"6Make the enclosing method "static" or remove this set.(ÚšüëJ$270781ca-5405-4bd6-82fb-78c431dc896f
+L	java:S106/"+Replace this use of System.out by a logger.(ÂÚôúøÿÿÿÿ8”ßÅßö1
+W
+java:S2209/"5Change this instance-reference to a static reference.(ÂÚôúøÿÿÿÿ8”ßÅßö1
+L	java:S1061"+Replace this use of System.out by a logger.(¯Çëžýÿÿÿÿ8•ßÅßö1
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¡¦‹Ýö1J$5958f498-f786-429a-bc1f-0226a09a29cd
+
+java:S1128">Remove this unused import 'java.util.concurrent.ForkJoinTask'.(ð£Úû8¡¦‹Ýö1J$9a521f04-6a9f-4bb6-a2ea-cbc95b956232

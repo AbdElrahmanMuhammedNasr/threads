@@ -1,0 +1,16 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÑŸ—€úÿÿÿÿ8ŒÄ“âõ1J$098ede43-b6f9-489e-b90a-b2d9261785c0
+•
+java:S2095$"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(æíŸÉúÿÿÿÿ8£Ä“âõ1J$2ff3469e-fef8-425f-b70c-9d7d2b0e00c8
+¦
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ñ“Š±üÿÿÿÿ8ªÄ“âõ1J$2e46a24e-6d10-429b-a245-25c7534d495f
+m	java:S106"+Replace this use of System.out by a logger.(â£§·8µÄ“âõ1J$5b2c81c5-5645-4a05-b2f6-a9f9d407840b
+a
+java:S2119"Save and re-use this "Random".(ÓŠÁ8²Ä“âõ1J$5c40f966-5e83-4e53-b2fc-759086e5cb5e
+r	java:S106"+Replace this use of System.out by a logger.(—ùğ“ÿÿÿÿÿ8¹Ä“âõ1J$2dc468ce-29c5-4a64-925a-a78b8c63b958
+r	java:S106"+Replace this use of System.out by a logger.(âèùÑüÿÿÿÿ8ê´•âõ1J$12e2f069-973a-42c9-8997-4e3d60d571c3
+r	java:S106"+Replace this use of System.out by a logger.(¦©¤„ıÿÿÿÿ8©€šâõ1J$16b9b37d-ecb2-428e-aa10-452c1016870b
+„
+java:S2438&"AReplace "argument 1" of type Thread with an instance of Runnable.(™ÊÕ»8¹Ä“âõ1J$55632228-616a-4709-aee6-554146ac3db0
+r	java:S106*"+Replace this use of System.out by a logger.(£«í…üÿÿÿÿ8Ø…âõ1J$4962d1f9-6b49-4fdc-a207-eeb9e7bdf88c
+m	java:S106+"+Replace this use of System.out by a logger.(Š†ê›8ßâõ1J$7fb5197b-defd-4e18-b402-6a3289cea838
